@@ -1,7 +1,7 @@
 #pragma once
 /**
  *  @file
- *  @copyright defined in eos/LICENSE.txt
+ *  @copyright defined in enumivo/LICENSE.txt
  */
 
 #include <stdint.h>
